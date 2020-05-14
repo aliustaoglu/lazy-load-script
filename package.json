@@ -1,5 +1,5 @@
 {
-  "name": "lazy-load-script",
+  "name": "lazy-load-script-tag",
   "version": "0.0.1",
   "type": "index.d.ts",
   "description": "Lazy load script tags",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aliustaoglu/lazy-load-script.git"
+    "url": "git+https://github.com/aliustaoglu/lazy-load-script-tag.git"
   },
   "keywords": [
     "lazyload"
@@ -17,9 +17,9 @@
   "author": "Cuneyt Aliustaoglu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aliustaoglu/lazy-load-script/issues"
+    "url": "https://github.com/aliustaoglu/lazy-load-script-tag/issues"
   },
-  "homepage": "https://github.com/aliustaoglu/lazy-load-script#readme",
+  "homepage": "https://github.com/aliustaoglu/lazy-load-script-tag#readme",
   "devDependencies": {
     "typescript": "^3.9.2"
   }

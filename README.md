@@ -5,13 +5,13 @@ This is especially useful when you're mixing jQuery and jQuery plugins with SPA 
 ## Installation
 
 ```
-yarn add lazy-load-script
+yarn add lazy-load-script-tag
 ```
 
 ## Usage
 
 ```javascript
-import lazyLoad from "lazy-load-script";
+import lazyLoad from "lazy-load-script-tag";
 
 lazyLoad("https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js")
   .then(() => lazyLoad("https://cdnjs.cloudflare.com/ajax/libs/jsgrid/1.5.3/jsgrid.min.js"))
