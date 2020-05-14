@@ -1,0 +1,26 @@
+{
+  "name": "lazy-load-script",
+  "version": "0.0.1",
+  "type": "index.d.ts",
+  "description": "Lazy load script tags",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliustaoglu/lazy-load-script.git"
+  },
+  "keywords": [
+    "lazyload"
+  ],
+  "author": "Cuneyt Aliustaoglu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliustaoglu/lazy-load-script/issues"
+  },
+  "homepage": "https://github.com/aliustaoglu/lazy-load-script#readme",
+  "devDependencies": {
+    "typescript": "^3.9.2"
+  }
+}
